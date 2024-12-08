@@ -146,7 +146,7 @@ https://ssai-variants.streaks.jp/v5/tver-simul-ntv/3865af1a962349ceaa5efe4600803
 https://ssai-variants.streaks.jp/v5/tver-simul-tbs/8e4c80725b9842cdb0f6f91260945222/b72f7e116957436b824f95d5138ea7a3/manifest/13df2e5de86b5ff0c5c3522d82e73a5fbf55aac1/pro-mt-176-7925/935ea802-70a9-4bcc-947b-2ebedd38eb0e/0.m3u8?pdt=-9122&session=935ea802-70a9-4bcc-947b-2ebedd38eb0e&vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoidGJzLWxpdmUtY2RuLnR2ZXIuanAiLCJvZmZzZXQiOjksInBkdCI6Ii05MTIyIn0.wOV3EHlPeChBRtRJRFGxflQXNmg89AetDeMx17VQuvA
 
 #EXTINF:-1 group-title="TVER" tvg-id="tv_asahi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/2560px-TV_Asahi_Logo.svg.png",テレ朝
-https://ssai-manifest.streaks.jp/v6/tver-simul-ex/498c4512f66846f1b0a5a3320ee035c3/ce98cb0b48994b50a76dba08ea894e24/hls/v5/manifest.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYyI6IjQ5OTFkYmNhNDAwYTRjOGQ4ZmIyYzA1YzVjMmJlNmNlIiwiZWRnZSI6ImI5NGVlMTJlY2VkYTQ4OTJhMzE0MDRkNDQ4ZjY1ZDMzIiwiY29kZWNzIjoiYXV0byIsImV4cCI6MTczMzY1MjYwMCwidnA5IjoxfQ.3aMjWfeX3Maqa74Hp4y_lwAxPn_gw3XmQjyULLT6goE&pdt=-16923&session=80ba620d-7eb8-4d1b-8909-f8fe40037365
+https://ssai-variants.streaks.jp/v5/tver-simul-ex/498c4512f66846f1b0a5a3320ee035c3/ce98cb0b48994b50a76dba08ea894e24/manifest/13df2e5de86b5ff0c5c3522d82e73a5fbf55aac1/pro-mt-175-8158/fd3befcf-d1f2-4f6d-b2a1-c1da23618588/0.m3u8?pdt=-16997&session=fd3befcf-d1f2-4f6d-b2a1-c1da23618588&vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoiZXgtbGl2ZS1jZG4udHZlci5qcCIsIm9mZnNldCI6OSwicGR0IjoiLTE2OTk3In0.gwY4dC0-83SMDfi9SccHyFgutWCo69rPk5dxN20rlls
 
 #EXTINF:-1 tvg-id="フジテレビ.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png" group-title="TVER",フジテレビ
 https://ssai-variants.streaks.jp/v5/tver-simul-cx/a78ebf1910144ba287907ec691bdc863/4817bf371f214463a3609e17a365f098/manifest/13df2e5de86b5ff0c5c3522d82e73a5fbf55aac1/pro-mt-178-7884/c5bafcb5-5a29-4931-9e45-2679548c08a3/0.m3u8?pdt=-6627&session=c5bafcb5-5a29-4931-9e45-2679548c08a3&vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoiY3gtbGl2ZS1jZG4udHZlci5qcCIsIm9mZnNldCI6OSwicGR0IjoiLTY2MjcifQ.rGchZoAv-VWLdrkowF0VYMb-geWaK_ZcFhYhXb5HolM
@@ -198,8 +198,6 @@ https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_51_5D021B6D.m3u8
 #EXTINF:-1 tvg-id="TVChosun.kr" tvg-logo="https://i.imgur.com/62EwaCG.png" group-title="KOR",TV Chosun (720p)
 #EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on.cstv
 http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
-#EXTINF:-1 group-title="KOR",CHA
-https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_52_12C896BD.m3u8
 #EXTINF:-1 tvg-id="YTN.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/YTN_logo_2014.svg/512px-YTN_logo_2014.svg.png" group-title="KOR",YTN (1080p)
 https://ythls.armelin.one/channel/UChlgI3UHCOnwUGzWzbJ3H5w.m3u8
 #EXTINF:-1 tvg-id="YonhapNewsTV.kr" tvg-logo="https://i.imgur.com/3aLkU2I.png" group-title="KOR",Yonhap News TV (1080p)
@@ -207,7 +205,5 @@ https://ythls.armelin.one/channel/UCTHCOPwqNfZ0uiKOvFyhGwg.m3u8
 #EXTINF:-1 tvg-id="TVChosun2.kr" tvg-logo="https://i.imgur.com/Ev5JoBJ.png" group-title="KOR",TV Chosun 2 (720p)
 #EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on2.cstv
 http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
-#EXTINF:-1 group-title="KOR",SBS SPORTS
-https://tvlive.sbs.co.kr/sbsespn/sbsespn2.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MzM2Mzg5MDQsInBhdGgiOiIvc2JzZXNwbjIuc3RyZWFtIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiIzN2Q2MWI3ZS1lNTI4LTRkYzAtYmQxZC03ODc2NmU5NjhkZWUiLCJpYXQiOjE3MzM2MzE3MDR9.WjwcFvbdoDsvpaL8Y9G_eYxt7NfbdfRGKO2HJs8dcXY
 #EXTINF:-1 group-title="KOR",NHK WORLD
 https://tistory1.daumcdn.net/tistory/2864460/skin/images/Foreigntv_351_27180BE8.m3u8
