@@ -131,8 +131,6 @@ http://tv.utako.moe/at-x/index.m3u8
 http://tv.utako.moe/mx2_testsignal/index.m3u8
 #EXTINF:-1 group-title="TEST",ガキ
 https://hamada.gaki-no-tsukai.stream/hls/test.m3u8
-#EXTINF:-1 group-title="TEST",tver専
-https://variants.streaks.jp/v5/tver-splive/e3161d93658047f99d57958bdd61c93a/7df0182ed165467a8e68ce101ac6eb3d/manifest_1.m3u8?vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoidHZlci1zcGxpdmUtbGl2ZS1jZG4udHZlci5qcCJ9.10gyckPfjHdMZIBc8NXgFcK_xPMZEv05qo9F-dI2lVM
 
 #KOR
 #EXTINF:-1 tvg-id="HLDFDTV.kr" tvg-logo="https://i.imgur.com/grr8BlV.png" group-title="KOR",SBS TJB (1080p) [Not 24/7]
