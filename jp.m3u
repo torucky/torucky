@@ -161,10 +161,6 @@ http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 
 #SHAREEXT@Television_South KoreaKorea
-#EXTINF:-1 tvg-id="KRBC46000173Y" tvg-chno="524" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC46000173Y_20230510T011433SQUARE.png_20230510011434.png" group-title="SHAREEXT@Television_South Korea" , JTBC 뉴스 
-https://d1b3dy6n8f9nao.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5d713eamqk50x/FC00000003.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-#EXTINF:-1 tvg-id="KRBB50000721W" tvg-chno="587" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB50000721W_20230524T004336SQUARE.png_20230524004337.png" group-title="SHAREEXT@Television_South Korea" , MBC 신비한 TV 서프라이즈 
-https://d1acfb5b13qsdr.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-he05vyj1kinia-prod/Channel_MBC_4.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D 
 #EXTINF:-1 tvg-id="KRBC2000010X" tvg-chno="612" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC2000010X_20230222T043327SQUARE.png_20230222043328.png" group-title="SHAREEXT@Television_South Korea" , MBC 거침없이 하이킥 
 https://dxkp9eljtcams.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-i6xnah4o9mnn8-prod/Channel_MBC_6.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D 
 #EXTINF:-1 tvg-id="KRBB4200004RA" tvg-chno="613" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200004RA_20230412T004734SQUARE.png_20230412004735.png" group-title="SHAREEXT@Television_South Korea" , SBS 순풍산부인과 
