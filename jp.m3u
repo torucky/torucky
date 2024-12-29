@@ -103,12 +103,6 @@ https://variants.streaks.jp/v5/tver-splive/9b0c3f3594094c45a0999bc1841398bc/acf0
 https://variants.streaks.jp/v5/tver-splive/739362ffcb08441d92f232dfb9e33dfd/f13a6b9823f24416a67f4e810ee6e0aa/manifest_4.m3u8?vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoidHZlci1mYXN0LWxpdmUtY2RuLnR2ZXIuanAifQ.vibnPAmcl7HRfR7Z7A3AbgSle_zmjFPUpM8kzEjPrkY
 
 #TEST
-#EXTINF:-1 group-title="TEST" tvg-id="tokyo_mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",TOKYO MX1-test
-http://tv.utako.moe/mx1/index.m3u8
-#EXTINF:-1 group-title="TEST" tvg-id="at-x" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png",AT-X-test
-http://tv.utako.moe/at-x/index.m3u8
-#EXTINF:-1 group-title="TEST",ガキ
-https://hamada.gaki-no-tsukai.stream/hls/test.m3u8
 #EXTINF:-1 group-title="Test" tvg-id="nhkg_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G (Low Latency test)
 http://tv.utako.moe/nhkg_fucknihontv.apymx/index.m3u8
 #EXTINF:-1 group-title="Test" tvg-id="nhke_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png",NHK E-test
@@ -131,6 +125,10 @@ http://tv.utako.moe/at-x/index.m3u8
 http://tv.utako.moe/bsp4k_testsignal/index.m3u8
 #EXTINF:-1 group-title="Test" tvg-id="bs_ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/BS4_logo.svg/2560px-BS4_logo.svg.png",BS NTV-test
 http://tv.utako.moe/bsntva11/index.m3u8
+#EXTINF:-1 group-title="Test" tvg-id="tokyo_mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",TOKYO MX1-test
+http://tv.utako.moe/mx1/index.m3u8
+#EXTINF:-1 group-title="Test",ガキ
+https://hamada.gaki-no-tsukai.stream/hls/test.m3u8
 
 #KOR
 #EXTINF:-1 tvg-id="HLDFDTV.kr" tvg-logo="https://i.imgur.com/grr8BlV.png" group-title="KOR",SBS TJB (1080p) [Not 24/7]
