@@ -120,12 +120,6 @@ https://ssai-variants.streaks.jp/v5/tver-simul-ex/498c4512f66846f1b0a5a3320ee035
 https://ssai-variants.streaks.jp/v5/tver-simul-cx/a78ebf1910144ba287907ec691bdc863/4817bf371f214463a3609e17a365f098/manifest/13df2e5de86b5ff0c5c3522d82e73a5fbf55aac1/pro-mt-178-7884/6f40fa65-9002-47e2-a3fe-24327e0a0a65/0.m3u8?pdt=-6627&session=6f40fa65-9002-47e2-a3fe-24327e0a0a65&vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoiY3gtbGl2ZS1jZG4udHZlci5qcCIsIm9mZnNldCI6OSwicGR0IjoiLTY2MjcifQ.rGchZoAv-VWLdrkowF0VYMb-geWaK_ZcFhYhXb5HolM
 #EXTINF:-1 tvg-id="テレビ東京.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/2560px-TV_Tokyo_logo_2023.svg.png" group-title="TVER",テレ東
 https://ssai-variants.streaks.jp/v5/tver-simul-tx/035622a82bcb46bc8e41ca5351f95a00/3887c96991ce4ae1bec43ea19f24c4d5/manifest/13df2e5de86b5ff0c5c3522d82e73a5fbf55aac1/pro-mt-177-8159/3079b26f-39b4-41b3-b624-95309207c512/0.m3u8?pdt=-11287&session=3079b26f-39b4-41b3-b624-95309207c512&vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoidHgtbGl2ZS1jZG4udHZlci5qcCIsIm9mZnNldCI6OSwicGR0IjoiLTExMjg3In0.8w803-3zMbMTLV_vXQTEsT45XVAp6pbD-fJlmYgmhIw
-#EXTINF:-1 tvg-id="FNN" tvg-logo="https://i.imgur.com/OY2zmHU.png" group-title="TVER",FNN
-https://variants.streaks.jp/v5/tver-splive/be4b926cac334343805fbe756d919b04/284668a7a62c47c3878b862afd6f588b/manifest_3.m3u8?vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoidHZlci1mYXN0LWxpdmUtY2RuLnR2ZXIuanAifQ.vibnPAmcl7HRfR7Z7A3AbgSle_zmjFPUpM8kzEjPrkY
-#EXTINF:-1 tvg-id="日テレNEWS24.jp" tvg-logo="https://about.smartnews.com/wp-content/uploads/2015/07/nnews_icon_512x512.png" group-title="TVER",日テレNEWS24
-https://variants.streaks.jp/v5/tver-splive/9b0c3f3594094c45a0999bc1841398bc/acf087b4d0404ecf94854d51fa19a798/manifest_4.m3u8?vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoidHZlci1mYXN0LWxpdmUtY2RuLnR2ZXIuanAifQ.vibnPAmcl7HRfR7Z7A3AbgSle_zmjFPUpM8kzEjPrkY
-#EXTINF:-1 group-title="TVER" tvg-id="TBS.NEWS.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/TBS_News_2020_logo.png", TBSニュース
-https://variants.streaks.jp/v5/tver-splive/739362ffcb08441d92f232dfb9e33dfd/f13a6b9823f24416a67f4e810ee6e0aa/manifest_4.m3u8?vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoidHZlci1mYXN0LWxpdmUtY2RuLnR2ZXIuanAifQ.vibnPAmcl7HRfR7Z7A3AbgSle_zmjFPUpM8kzEjPrkY
 
 #BS2
 #EXTINF:-1 group-title="BS2" tvg-id="nhk_bsp4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/NHK_BSP4K_2023_logo.svg/1920px-NHK_BSP4K_2023_logo.svg.png",NHK BS4K-test
