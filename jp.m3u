@@ -121,8 +121,6 @@ http://mytv.dothome.co.kr/ch/public/3.php
 http://mytv.dothome.co.kr/ch/catv/2.php
 #EXTINF:-1 tvg-id="KBSJoy.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KBS_JOY.svg/512px-KBS_JOY.svg.png" group-title="KOR",KBS Joy (480p)
 http://mytv.dothome.co.kr/ch/catv/3.php
-#EXTINF:-1 group-title="KOR",TVN
-https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_66_B3A7AB53.m3u8
 #EXTINF:-1 group-title="KOR",channal A
 https://channelaid3.ichannela.com/atv3/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwYXRoIjoiL2F0djMiLCJleHAiOjE3NDU3MTIwMDB9._lwonWazDXHC5FXzzLd9MBiIkxRo9Wt9d2agC8Izyks
 #EXTINF:-1 group-title="KOR",MBN
