@@ -123,8 +123,12 @@ http://mytv.dothome.co.kr/ch/catv/2.php
 http://mytv.dothome.co.kr/ch/catv/3.php
 #EXTINF:-1 group-title="KOR",TVN
 https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_66_B3A7AB53.m3u8
+#EXTINF:-1 group-title="KOR",channal A
+https://channelaid3.ichannela.com/atv3/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwYXRoIjoiL2F0djMiLCJleHAiOjE3NDU3MTIwMDB9._lwonWazDXHC5FXzzLd9MBiIkxRo9Wt9d2agC8Izyks
+#EXTINF:-1 group-title="KOR",MBN
+https://hls-live.mbn.co.kr/mbn-on-air/600k/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cCo6Ly9obHMtbGl2ZS5tYm4uY28ua3IvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0NTc1NTMxOX0sIklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiIwLjAuMC4wLzAifX19XX0_&Signature=tx8SoYdEoC3YsqOzP-lG9Or5m7Jg2GthkrBQf30-2~MNt34LsMNOYxkjzFFNZKSJhXOdpQ0kpTmE90Lfxuu4tojwFI2sTIOVJdhNo9qtOpDac5YYIB8edI1ZBPxLbggLrFfiOX129ZTTXNT~eD-poQJEpa9oKq~aIoP0bI4LEEo_&Key-Pair-Id=pub_hls-live.mbn.co.kr
 #EXTINF:-1 tvg-id="JTBC" tvg-logo="https://nstatic.jtbc.co.kr/inc/images/ci.png" group-title="KOR",JTBC
-https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_51_5D021B6D.m3u8
+https://jtbclive-cdn.jtbc.co.kr/mobileweb/newmoweb.stream/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHAqOi8vanRiY2xpdmUtY2RuLmp0YmMuY28ua3IvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0NTcwNDgyMX0sIklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiIwLjAuMC4wLzAifX19XX0_&Signature=czFnmnLhArwOWQ7wIlfR8MkUqufLxBBmTEy3vWx9P1oBQ0fV4cI2WWQBU~jec-F00nWjJuiTmUCC1nwh~ZaR0rLwXdGhZBAej2vhAaQmpmIo3eNKNN90lNKrCjOAODvoULCOecHQhv485IwoK2X9aSPwcmWXqqERtwUQ~wg9hRo_&Key-Pair-Id=pub_jtbclive-cdn.jtbc.co.kr
 #EXTINF:-1 group-title="KOR",tvg-id="TVChosun.kr" http-referrer="http://broadcast.tvchosun.com/onair/on.cstv",TV Chosun (720p)
 #EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on.cstv
 http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
@@ -132,7 +136,7 @@ http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
 #EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on2.cstv
 http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
 EXTINF:-1 tvg-id="YTN.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/YTN_logo_2014.svg/512px-YTN_logo_2014.svg.png" group-title="KOR",YTN (1080p)
-https://ythls.armelin.one/channel/UChlgI3UHCOnwUGzWzbJ3H5w.m3u8
+https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_215_5C598D65.html
 #EXTINF:-1 tvg-id="YonhapNewsTV.kr" tvg-logo="https://i.imgur.com/3aLkU2I.png" group-title="KOR",Yonhap News TV (1080p)
 https://dvar4azmtmll0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6tpj7htwv2prd/master.m3u8
 #EXTINF:-1 group-title="KOR",NHK World Japan (1080p)
