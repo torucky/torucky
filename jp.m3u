@@ -111,8 +111,7 @@ https://ssai-variants.streaks.jp/v5/tver-simul-tx/035622a82bcb46bc8e41ca5351f95a
 #Test
 #EXTINF:-1 group-title="Test",ガキ
 https://hamada.gaki-no-tsukai.stream/hls/test.m3u8
-#Test
-#EXTINF:-1 group-title="Niigata" tvg-id="teny" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Teny_logo.svg/1920px-Teny_logo.svg.png", teny (test)
+#EXTINF:-1 group-title="Test" tvg-id="teny" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Teny_logo.svg/1920px-Teny_logo.svg.png", teny (test)
 https://vthanh.utako.moe/tenytest/index.m3u8
 
 #KOR
