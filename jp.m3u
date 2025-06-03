@@ -55,6 +55,8 @@ http://luong.utako.moe/bsntv/index.m3u8
 http://luong.utako.moe/bsasahi/index.m3u8
 #EXTINF:-1 group-title="BS2" tvg-id="bs_tbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/BS-TBS_2020.svg/1920px-BS-TBS_2020.svg.png",BS TBS
 http://luong.utako.moe/bstbs/index.m3u8
+#EXTINF:-1 group-title="BS2" tvg-id="bs_tv_tokyo_4k" tvg-logo="https://www2.myjcom.jp/special/common/channel_logo/bs_tv_tokyo_4k.jpg",BS TV Tokyo 4K (test)
+http://luong.utako.moe/bstx4k/index.m3u8
 #EXTINF:-1 group-title="BS2" tvg-id="bs_tvtokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/BS_TV_Tokyo_%28Japanese%29_2023.svg/1920px-BS_TV_Tokyo_%28Japanese%29_2023.svg.png",BS TV Tokyo
 http://luong.utako.moe/bstvtokyo/index.m3u8
 #EXTINF:-1 group-title="BS2" tvg-id="bs_fuji" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/74/BSFuji2008Symbol.svg/1280px-BSFuji2008Symbol.svg.png",BS Fuji
