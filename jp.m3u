@@ -129,6 +129,7 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=CS310&r=FHD&ccode=JP&m=d0:2
 https://hamada.gaki-no-tsukai.stream/hls/test.m3u8
 
 KOR
+#EXTINF:-1 group-title="KOR",SBS
 https://stream1.knn.co.kr/hls/9ly4534y7dm2xfa123r2_tv/index.m3u8
 #EXTINF:-1 tvg-id="HLCNDTV.kr" tvg-logo="https://i.imgur.com/wmGJgYh.png" group-title="KOR",MBC Gwangju (광주 MBC) (1080p) [Geo-blocked] [Not 24/7]
 https://media.kjmbc.co.kr/hls/live/stream/playlist.m3u8
