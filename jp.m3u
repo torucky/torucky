@@ -1,12 +1,8 @@
 #EXTM3U url-tvg="http://epg.utako.moe/jcom.xml,https://animenosekai.github.io/japanterebi-xmltv/guide.xml" tvg-shift=0 m3uautoload=1
 
 #Tokyo
-#EXTINF:-1 group-title="Tokyo" tvg-id="nhkg_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK World Premium
-https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
 #EXTINF:-1 group-title="Tokyo" tvg-id="JOAKDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G
 https://vthanh.utako.moe/NHK_G/index.m3u8
-#EXTINF:-1 group-title="Tokyo" tvg-id="JOAKDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G 2 
-https://vthanh.utako.moe/nhkg_nonHEVC/index.m3u8
 #EXTINF:-1 group-title="Tokyo" tvg-id="JOABDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png",NHK E
 https://vthanh.utako.moe/NHK_E/index.m3u8
 #EXTINF:-1 group-title="Tokyo" tvg-id="JOAXDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png",NTV
@@ -24,6 +20,8 @@ https://vthanh.utako.moe/Tokyo_MX1/index.m3u8
 #EXTINF:-1 group-title="Tokyo" tvg-id="TokyoMX2.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",TOKYO MX2
 https://vthanh.utako.moe/Tokyo_MX2/index.m3u8
 #Kansai
+#EXTINF:-1 group-title="Kansai" tvg-id="JOBKDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G Osaka 1080
+https://vthanh.utako.moe/NHKG_Osaka_original/index.m3u8
 #EXTINF:-1 group-title="Kansai" tvg-id="JOOYDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/1920px-Mainichi_Broadcasting_System_logo.svg.png",MBS
 https://vthanh.utako.moe/mbs/index.m3u8
 #EXTINF:-1 group-title="Kansai" tvg-id="JOAYDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Asahi_Broadcasting_Corporation_Logo.svg/261px-Asahi_Broadcasting_Corporation_Logo.svg.png",ABC
@@ -129,6 +127,10 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=CS257&r=FHD&ccode=JP&m=d0:2
 
 #EXTINF:-1 group-title="Test",ガキ
 https://hamada.gaki-no-tsukai.stream/hls/test.m3u8
+#EXTINF:-1 group-title="Test" tvg-id="nhkg_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK World Premium
+https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
+#EXTINF:-1 group-title="Test" tvg-id="JOAKDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G 2 
+https://vthanh.utako.moe/nhkg_nonHEVC/index.m3u8
 
 #EXTINF:-1 group-title="KOR",SBS
 https://stream1.knn.co.kr/hls/9ly4534y7dm2xfa123r2_tv/index.m3u8
